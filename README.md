@@ -1,2 +1,2 @@
 # new project
-first project for git
+first project for git.
